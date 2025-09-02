@@ -21,4 +21,7 @@ The goal was to clean and transform the dataset in Power Query, then design an i
 
 ## Acknowledgements
 - Dataset by [Shivam Bansal on Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows)
-
+  
+##Author: Deborah Akanni
+deborahakanni67@gmail.com
+www.linkedin.com/in/deborah-akanni-8638081ba
