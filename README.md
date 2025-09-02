@@ -4,11 +4,9 @@
 This project explores the Netflix Movies and TV Shows dataset from Kaggle using Excel.  
 The goal was to clean and transform the dataset in Power Query, then design an interactive dashboard using PivotTables, PivotCharts, and Slicers.
 
-## Dataset
-- **Source:** Netflix Shows Dataset on Kaggle
-- **Link:** https://www.kaggle.com/datasets/shivamb/netflix-shows  
-- Contains details of over 8,000 movies and TV shows, including title, director, cast, country, release year, rating, duration, and genre.
-  
+## Files in this Repo
+
+
 ## Key Insights
 - Netflix’s catalog is movie-heavy, but TV shows form a strong segment.  
 - Content growth accelerated after 2015, peaking around 2017–2019.  
@@ -19,8 +17,11 @@ The goal was to clean and transform the dataset in Power Query, then design an i
 ## Tools Used
 - Microsoft Excel - Power Query, PivotTables, PivotCharts, Slicers 
 
-- Dataset by [Shivam Bansal on Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows)
+- Dataset by Shivam Bansal on Kaggle
   
+- https://www.kaggle.com/datasets/shivamb/netflix-shows
+  
+Contains details of over 8,000 movies and TV shows, including title, director, cast, country, release year, rating, duration, and genre. 
 
 Author: Deborah Akanni
 
