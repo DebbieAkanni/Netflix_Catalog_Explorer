@@ -26,8 +26,8 @@ https://www.kaggle.com/datasets/shivamb/netflix-shows
 Contains details of over 8,000 movies and TV shows, including title, director, cast, country, release year, rating, duration, and genre. 
 
 
-**Author: Deborah Akanni*
+*Author: Deborah Akanni*
 
-**deborahakanni67@gmail.com*
+*deborahakanni67@gmail.com*
 
-**www.linkedin.com/in/deborah-akanni-8638081ba*
+*www.linkedin.com/in/deborah-akanni-8638081ba*
